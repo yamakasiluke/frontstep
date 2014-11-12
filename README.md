@@ -12,3 +12,7 @@ The principle!
 KISS!
 
 ASAP!
+
+try branch stay foolish!
+
+and no change in branch master!good!
