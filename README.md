@@ -12,3 +12,5 @@ The principle!
 KISS!
 
 ASAP!
+
+try branch stay foolish!
